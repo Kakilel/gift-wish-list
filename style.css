@@ -1,26 +1,26 @@
 * {
      padding: 0; 
-     margin: 0;
+     margin-top: 0;
 }
-.main {
+body {
     width: 100%;
-    background-image: url(pics/beige.jpeg);
+    background-image: url(pics/beige7.jpeg);
     background-attachment: local;
     background-position: inherit;
-    height: 10vh;
+    background-origin: inherit;
+    height: fit-content;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
     height: 120vh;
-    position: relative;
-    font-family: sans-serif;
-    width: auto;
+    margin-top: 23%;
+
 }
 
-  .main h1 {
+h1 {
     color: #000000;
     font-size: 40px;
     text-align: center;
-    margin: 0%;
+    margin-bottom: %;
   }
     .main h3 {
         color: rgb(25, 29, 25);
@@ -46,6 +46,8 @@
    div.date h3{
     text-align: center;
    }
-        
+    .conclude h3 {
+        text-align: center; 
+    }   
         
        
