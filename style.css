@@ -12,7 +12,7 @@
     background-repeat: no-repeat;
     height: 120vh;
     position: relative;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: sans-serif;
     width: auto;
 }
 
@@ -29,6 +29,7 @@
     }
     .main p {
         color: rgb(0, 0, 0);
+        text-align: center;
     }
     ul {
         padding: 0;
