@@ -1,20 +1,39 @@
-*{
-    padding: 0;
-    margin: 0;
+* {
+     padding: 0; 
+     margin: 0;
 }
 .main {
-        width: 100%;
-        background-image: url(pics/beige1.jpeg);
-        background-attachment: local;
-        background-position: inherit;
-        height: 10vh;
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 120vh;
-      
-        position: relative;
-        font-family: sans-serif;
+    width: 100%;
+    background-image: url(pics/beige.jpeg);
+    background-attachment: local;
+    background-position: inherit;
+    height: 10vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+    position: relative;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+    width: auto;
 }
 
+  .main h1 {
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    margin: 0%;
+  }
+    .main h3 {
+        color: rgb(25, 29, 25);
+        font-size: 20px;
+        text-align:start;  
+    }
+    .main p {
+        color: rgb(25, 29, 25);
+        text-align: center;  
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin-left: 7%;
     
-
