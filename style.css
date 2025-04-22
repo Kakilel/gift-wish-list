@@ -13,7 +13,6 @@
     height: 120vh;
     position: relative;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   
     width: auto;
 }
 
@@ -29,11 +28,23 @@
         text-align:start;  
     }
     .main p {
-        color: rgb(25, 29, 25);
-        text-align: center;  
+        color: rgb(0, 0, 0);
     }
     ul {
-        list-style-type: none;
         padding: 0;
-        margin-left: 7%;
-    
+        margin-left: 11%;
+    }
+    ul li {
+        color:rgb(0, 0, 0)
+        font-size: 20px;
+    }
+    ul li a {
+        color: rgb(87, 134, 243);
+        text-decoration: underline;
+    }
+   div.date h3{
+    text-align: center;
+   }
+        
+        
+       
