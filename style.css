@@ -38,41 +38,40 @@ body {
   }
   
   ul {
-    list-style-type: none;
-    padding-left: 0;
-  }
-  
-  .list li {
-    margin: 0.5rem 0;
-    font-size: 1rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  
+      list-style-type:none;
+      padding-left: 0;
+    }
+    .list li {
+        margin: 0.5rem 0;
+        font-size: 1rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+    }
+    
   .list li span {
     font-weight: bold;
     color: #a9746e;
-  }
-  
-  ul li {
+}
+
+ul li {
     margin: 0.5rem 0;
     text-align: center;
-  }
-  
-  ul li a {
-    text-decoration: none;
+}
+
+ul li a {
+    text-decoration:;
     color: #6f4e37;
     font-weight: bold;
     margin-left: 0.5rem;
-  }
   
-  ul li a:hover {
+}
+
+ul li a:hover {
     color: #a9746e;
     text-decoration: underline;
-  }
-  
+}
   h3 {
     color: #8b5e3c;
     text-align: center;
