@@ -61,7 +61,7 @@ ul li {
 }
 
 ul li a {
-    text-decoration:;
+    text-decoration: none;
     color: #6f4e37;
     font-weight: bold;
     margin-left: 0.5rem;
