@@ -108,4 +108,12 @@ ul li a:hover {
  .or{
     text-align: center;
  }
+mark{
+  background-color: rgb(133, 133, 37);
+}
+.list span mark{
+  background-color: #a9746e00;
+  color: #4b3b2a;
+  text-decoration: line-through;
+}
 
